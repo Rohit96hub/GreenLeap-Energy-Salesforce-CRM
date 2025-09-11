@@ -66,7 +66,7 @@ To deploy this project to a Salesforce Scratch Org:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/GreenLeap-Energy-Salesforce-CRM.git](https://github.com/YOUR_USERNAME/GreenLeap-Energy-Salesforce-CRM.git)
+    git clone [https://github.com/Rohit96hub/GreenLeap-Energy-Salesforce-CRM.git](https://github.com/Rohit96hub/GreenLeap-Energy-Salesforce-CRM.git)
     cd GreenLeap-Energy-Salesforce-CRM
     ```
 
