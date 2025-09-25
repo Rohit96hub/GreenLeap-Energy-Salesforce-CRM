@@ -1,0 +1,39 @@
+# Default SFDX files
+.sfdx/
+.sf/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.DS_Store
+*.log
+
+# LWC Jest
+/force-app/main/default/lwc/**/__tests__/
+
+# Scratch org definition file property override
+scratch-org-def.json
+
+# Tell git to ignore the project version file
+sfdx-project.json.lock
+
+# Don't commit the zipped static resource files
+/force-app/main/default/staticresources/
+
+# Installed managed packages
+/force-app/main/default/installedPackages/
+
+# Unpackaged metadata
+/unpackaged/
+
+# Org-specific metadata
+/orgs/
+
+# Test results
+/test-results/
+/test-results-v2/
+
+# PMD
+/pmd/
+
+# Apex docs
+/apex-doc/
